@@ -1,1 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://pothabattulavinod.github.io/d/output0.ts
+#EXTINF:10.0,
+https://pothabattulavinod.github.io/d/output1.ts
+#EXTINF:10.0,
+https://pothabattulavinod.github.io/d/output2.ts
+#EXTINF:10.0,
+https://pothabattulavinod.github.io/d/output3.ts
+#EXT-X-ENDLIST
 
